@@ -1,0 +1,4 @@
+php artisan make:controller AnimalController
+php artisan make:model Animal
+
+
